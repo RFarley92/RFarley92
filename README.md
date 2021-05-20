@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RFarley92
-- 👀 I’m interested in creating mobile apps with flutter and learning about bioinformatics
+- 👀 I’m interested in creating mobile apps with flutter
 - 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on personal projects with friends or anything involving bioinformatics
+- 💞️ I’m looking to collaborate on personal projects with friends
 - 📫 How to reach me rachel.farley.12.13.14@gmail.com
 
 <!---
