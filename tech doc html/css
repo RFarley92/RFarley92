@@ -1,0 +1,121 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<!-- the scientific paper with page breaks down is located at www.pnas.orgcgidoi10.1073pnas.132544299. I don't have pro so i can't upload the figures i designed and just putting in a random figure wouldn't make sense -->
+
+<header id="header"> 
+  <h1 id="title"> A LOOK AT MANIPULATING BACTERIOPHAGE FOR SCIENCE PURPOSES </h1>
+  <p id="webpage-breakdown"> The paper, "Design of protein struts for self-assembling
+nanoconstructs", looks at T4 bacteriophage, which are viruses that attack bacteria, their structure, and how that structure could be rearranged to potentially design nanocomponents and nanodevices that do things that couldn't ordinarily be done without that specific design. There are 5 main sections to this webpage. Each will go into detail about the paper and the last section will be the paper itself. Let's get started! </p>
+</header>
+
+  <nav id="navbar"> 
+    <header id="exploration_of_the_paper"> This is an exploration of the paper "Design of protein struts for self-assembling
+      nanoconstructs" by Paul Hyman, Regina Valluzzi, and Edward Goldberg. </header>
+    <ul>
+          <li> <a href="#What_is_a_bacteriophage_and_how_does_it_work?" class="nav-link"> What is a bacteriophage and how does it work? </a> </li>
+          <li> <a href="#Basic_DNA_structure_and_how_it_is_modified:" class="nav-link"> Basic DNA structure and how it is modified: </a> </li>
+          <li> <a href="#Procedures_performed_to_obtain_a_conclusion:" class="nav-link"> Procedures performed to obtain a conclusion: </a> </li>
+      <li> <a href="#Conclusions_drawn:" class="nav-link"> Conclusions drawn: </a> </li>
+      <li> <a href="#The_paper:_Design_of_protein_struts_for_self-assembling_nanoconstructs" class="nav-link"> The paper: Design of protein struts for self-assembling
+    nanoconstructs </a> </li>
+        </ul>
+  </nav>
+
+<main id="main-doc">
+  <section id="What_is_a_bacteriophage_and_how_does_it_work?" class="main-section"> 
+    <header id="section1"> What is a bacteriophage and how does it work? </header>
+    <div class="container" id="phage">
+        <img src="#" alt="phage diagram">
+      </div>
+    <p id="phage-structure"> The way any phage works is it connects to a bacteria and injects it's DNA into the bacteria and has the bacteria make more phage. The long and short tail fibers' proteins are like keys that connect to locks that can be found on said bacteria. The phage DNA comes out of the baseplate. The diagram above shows where the DNA, tail, tail fibers and baseplate are. The tail's proteins can be rearranged without losing its self-assembling highly stabel structure. That means you can change up the keys to potentially fit into different locks on bacteria. The reason this is so useful is discussed in further detail in the  introduction of the paper. </p>
+  </section>
+  
+  <section id="Basic_DNA_structure_and_how_it_is_modified:" class="main-section"> 
+    <header id="section2"> Basic DNA structure and how it is modified: </header>
+    <div class="container" id="dna">
+        <img src="#" alt="DNA diagram">
+      </div>
+    <p id="dna-explaination"> DNA is made up of 4 bases: Adenine (A), Cytosine (C), Guanine (G), and Thymine (T) with hydrogen bonds connecting them. DNA replication is a long process but to sum it up, the DNA unzips because of helicase, something called DNA polymerase goes continuously up one strand and in sections down the other filling in the now empty spots after the split. By using something called primers you can alter a part of the DNA which will be replicated by this process over and over. By trial and error, the goal is to get the mutation that causes the desirable change. </p>
+  </section>
+  
+  <section id="Procedures_performed_to_obtain_a_conclusion:" class="main-section"> 
+    <header id="section3"> Procedures performed to obtain a conclusion: </header>
+    <ul>
+      <li> <p id="procedure1>"> <code>First:</code> the bacteria phage mutant used was T4 37amA481 and E. coli B40 was used to get the phage replicating. A titer is a measurment of mutated specimen. For this experimnet they used a phage titer which looked at the concentration of the virus that could infect the bacteria. The mutation the phage contained was the amber mutation and was identified by their ability to form plaques on plates with the B40 E. coli. </p> </li>
+    <li> <p id="procedure2"> <code>Second:</code> the primers were selected and PCR, or polymerase chain reaction, was performed. Primers are snippets of DNA you want to cut and paste into your sequence. These are customized so PCR can be performed. Think of PCR as phtocopying on steriods. The primers connect to the DNA and then copies are produced like crazy so you have a bunch of mutants. The rod region of the phage which can be seen in figure 1 above is the region that was replicated. When it's sent off to get processed, they send you a nice document with all the variations in the DNA for that particular sequenced region and you can pick which ones you want.</p> </li>
+   <li> <p id="procedure3"> <code>Third:</code> After looking at the results, stocks of the mutant T4 phage, with the amber mutation located in a specific segment, were made. The Adsorption rate was measured by using the single time point method (see paper for more details). This was done to determine the fitness level of the phage. </p> </li>
+   <li> <p id="procedure4"> <code>Fourth:</code> Coding segments were added to the cloned DNA using overlapping PCR primers. This made two half segments which were then fused together to make a larger segment. This was inserted into the mutation site. The mutation sites are labeled with numbers above in figure 1. </p> </li>
+   <li> <p id="procedure5"> <code>Fifth:</code> Pictures were taken with an electron microscope of the phage and measurments were taken. All can be seen in the materials and methods section of the paper. </p> </li>
+    </ul>
+  </section>
+  
+  <section id="Conclusions_drawn:" class="main-section"> 
+    <header id="section4"> Conclusions drawn: </header>
+    <p id="part1"> PCR was used to screen for a mutation that had a section of DNA deleted from a specific gene (amber mutation). That gene coded for the end of the tail fiber which mentioned previously acts as a key to the "locks" on the outside of the bacteria so the phage can connect in a certain way and send their DNA inside the bacteria to be replicated. Several mutations were found and the tables and graphs can be seen in the paper below. Restriction and sequence ananlysis were done to confirm the mutations happened in the sections desired instead of in another place but compensated for with a different random mutation somewhere else. When the pictures were taken with the electron microscope, the physical size difference in the tail fibers could be seen. </p>
+    <p id="part2"> There are loop regions in the tail fibers that seem to have little to do with the stability of the structure itself. Theoretically, the insertion of additional sequences could be done, altering the connection area more, without completely destroying the integrity of the fibers. This was tested and confirmed using the recombination technique described above. </p>
+      <p id="part3"> Besides the tail fibers connecting to the bacteria, they also allow certain nutrients to enter the phage itself. The ability to absorb these nutrients were also tested. The nutrients were determined to be absorbed but it is unclear if they were still absorbed by the altered connections or different connections elsewhere that just happen to absorb the same thing. Regardless of how the nutrients entered, these tests demonstrated that the phage could continue to do what is necessary for survival and reproduction even after insertions and deletions were made to the specific part of their genome. </p>
+  </section>
+  
+  <section id="The_paper:_Design_of_protein_struts_for_self-assembling_nanoconstructs" class="main-section">
+  <header id="section5"> The paper: Design of protein struts for self-assembling
+    nanoconstructs </header>
+    <p id="paper"> 
+      To read the full paper, <a target="_blank" href="https://www.pnas.org/content/pnas/99/13/8488.full.pdf">click here</a> or go to pnas.org cite directly and search volume 99, number 13, pages 8488-8493.
+    </p>
+  </section>
+  
+  <footer id="science-image" class="container"> 
+    <figure id="generic-image">
+      <svg viewBox="0 0 448 512" width="100" title="flask">
+  <path d="M437.2 403.5L320 215V64h8c13.3 0 24-10.7 24-24V24c0-13.3-10.7-24-24-24H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h8v151L10.8 403.5C-18.5 450.6 15.3 512 70.9 512h306.2c55.7 0 89.4-61.5 60.1-108.5zM137.9 320l48.2-77.6c3.7-5.2 5.8-11.6 5.8-18.4V64h64v160c0 6.9 2.2 13.2 5.8 18.4l48.2 77.6h-172z" />
+</svg>
+    </figure>
+  </footer>
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ css
+ 
+ .container{
+  max-width: 100%;
+  display: flex;
+  height: auto; 
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 350px){
+  #navbar{
+    position: fixed;
+    float: left;
+    width: 15%
+    } 
+  #main-doc{
+  float: right;
+  width: 75%;
+  }
+  #header{
+   text-align: center;
+   background: #263238;
+   color: #B2DFDB;
+   float: right;
+   width: 75%;
+  }
+}
+body{
+  margin: 10px 20px 10px 20px;
+  font-family: 'Crimson Pro', serif;
+}
+header{
+  font-size: 25px;
+}
+
+
+   
+  
