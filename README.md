@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RFarley92
-- 👀 I’m interested in creating mobile apps with flutter
-- 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on personal projects with friends
+- 👀 I’m interested in cyber security and video games
+- 🌱 I’m currently learning nodejs and C#
+- 💞️ I’m looking to learn now and collaborate later
 - 📫 How to reach me rachel.farley.12.13.14@gmail.com
 
 <!---
